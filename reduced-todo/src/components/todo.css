@@ -1,0 +1,10 @@
+.todo {
+    width: 45%;
+    margin: auto;
+    padding-left: 8px;
+    cursor: pointer;
+  }
+  
+  .todo.completed {
+    text-decoration: line-through;
+  }
